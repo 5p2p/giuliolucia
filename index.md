@@ -8,7 +8,6 @@ luogo: Roma
 ---
 
 <img data-src="gallery/glweb-03.jpg" class="" />
-<img data-src="gallery/glweb-01.jpg" class="" />
 <img data-src="gallery/glweb-02.jpg" class="" />
 <img data-src="gallery/glweb-04.jpg" class="" />
 <img data-src="gallery/glweb-08.jpg" class="" />
